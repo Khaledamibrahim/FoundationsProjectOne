@@ -11,8 +11,8 @@ original_price = 2
 signature_price = 2.750
 
 ############################# Start Here! ##############################
-cupcake_shop_name = #complete me!
-signature_flavors = #complete me!
+cupcake_shop_name = "Aboods"
+signature_flavors = ["Cardomon", "Hail", "Arabic Coffee"]
 order_list = []
 
 
